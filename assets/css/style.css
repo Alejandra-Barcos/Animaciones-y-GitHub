@@ -125,7 +125,7 @@
 
 .footer{
     grid-area: footer;
-    background-color: #1e4177;
+    background-color: cadetblue;
     display: flex;
     align-items: center;
     justify-content: space-around;
